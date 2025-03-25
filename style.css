@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(202, 169, 129);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    background-color: brown;
+    color: rgb(202, 169, 129);
+}
+
+a {
+    color: brown;
+}
+
+li, p, a {
+    font-size: 22px;
+}
