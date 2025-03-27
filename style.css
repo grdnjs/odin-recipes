@@ -15,15 +15,17 @@ h3 {
 
 a {
     color: brown;
+    display: block;
 }
 
 p {
     margin: 20px;
+    display: block;
 }
 
 li, p, a {
     font-size: 22px;
-    display: block;
+    
 }
 
 img {
