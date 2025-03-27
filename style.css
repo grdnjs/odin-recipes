@@ -28,6 +28,10 @@ li, p, a {
     
 }
 
+ul {
+    margin: 5px 50px;
+}
+
 img {
     margin: 0 auto;
     width: 400px;
