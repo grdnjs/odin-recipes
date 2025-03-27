@@ -18,6 +18,10 @@ a {
     display: block;
 }
 
+.centered {
+    text-align: center;
+}
+
 p {
     margin: 20px;
     display: block;
