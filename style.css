@@ -17,6 +17,10 @@ a {
     color: brown;
 }
 
+p {
+    margin: 20px;
+}
+
 li, p, a {
     font-size: 22px;
     display: block;
